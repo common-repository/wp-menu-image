@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="77px" height="54px" viewBox="0 0 77 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="14.9488554%" y2="12.5727313%" id="linearGradient-1">
+            <stop stop-color="#3789F1" offset="0%"></stop>
+            <stop stop-color="#EF2929" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="48.5636311%" x2="1.11022302e-14%" y2="51.4363689%" id="linearGradient-2">
+            <stop stop-color="#37D8F1" offset="0%"></stop>
+            <stop stop-color="#29EAEF" stop-opacity="0.299818841" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="WP-Menu-Image" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WP-Menu-Image-icon-128x128" transform="translate(-25.000000, -37.000000)" fill-rule="nonzero">
+            <g id="icon_with_BG">
+                <g id="icon" transform="translate(25.000000, 37.000000)">
+                    <circle id="Oval" fill="url(#linearGradient-1)" cx="7" cy="7" r="7"></circle>
+                    <circle id="Oval-Copy" fill="url(#linearGradient-1)" cx="7" cy="27" r="7"></circle>
+                    <circle id="Oval-Copy-2" fill="url(#linearGradient-1)" cx="7" cy="47" r="7"></circle>
+                    <rect id="Rectangle" fill="url(#linearGradient-2)" x="18" y="2" width="59" height="10" rx="5"></rect>
+                    <rect id="Rectangle-Copy" fill="url(#linearGradient-2)" x="18" y="22" width="59" height="10" rx="5"></rect>
+                    <rect id="Rectangle-Copy-2" fill="url(#linearGradient-2)" x="18" y="42" width="59" height="10" rx="5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
